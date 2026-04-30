@@ -1,0 +1,57 @@
+Regal Collection — Raw GitHub URLs
+Repo: idogolan4955/avians-media (branch: main)
+
+==========================================
+FOLDER 1: Regal Collection Images/  (full landscape images)
+==========================================
+
+REGAL COLLECTION (cover):
+https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/REGAL%20COLLECTION.jpg
+
+REGINA     (R1021):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/REGINA.jpg
+ELARION    (R1022):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ELARION.jpg
+ODETTE     (R1023):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ODETTE.jpg
+EVANGELINE (R1024):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/EVANGELINE.jpg
+ROSALINE   (R1025):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ROSALINE.jpg
+CORNELIA   (R1026):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/CORNELIA.jpg
+MIRAVELLE  (R1027):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/MIRAVELLE.jpg
+VALTORIA   (R1028):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/VALTORIA.jpg
+VESPERA    (R1029):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/VESPERA.jpg
+AURETTE    (R1030):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/AURETTE.jpg
+ISALINE    (R1031):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ISALINE.jpg
+ALOUETTE   (R1032):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ALOUETTE.jpg
+NORIELLE   (R1033):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/NORIELLE.jpg
+VIVIENNE   (R1034):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/VIVIENNE.jpg
+ALTHEA     (R1035):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/ALTHEA.jpg
+SABINE     (R1036):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/SABINE.jpg
+CLARISSE   (R1037):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/CLARISSE.jpg
+MATILDA    (R1038):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/MATILDA.jpg
+MARQUISE   (R1039):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/MARQUISE.jpg
+LUNARA     (R1040):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/Regal%20Collection%20Images/LUNARA.jpg
+
+==========================================
+FOLDER 2: תמונה ראשית/  (portrait 1080x1920)
+==========================================
+
+REGINA     (R1021):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/REGINA.jpg
+ELARION    (R1022):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ELARION.jpg
+ODETTE     (R1023):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ODETTE.jpg
+EVANGELINE (R1024):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/EVANGELINE.jpg
+ROSALINE   (R1025):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ROSALINE.jpg
+CORNELIA   (R1026):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/CORNELIA.jpg
+MIRAVELLE  (R1027):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/MIRAVELLE.jpg
+VALTORIA   (R1028):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/VALTORIA.jpg
+VESPERA    (R1029):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/VESPERA.jpg
+AURETTE    (R1030):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/AURETTE.jpg
+ISALINE    (R1031):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ISALINE.jpg
+ALOUETTE   (R1032):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ALOUETTE.jpg
+NORIELLE   (R1033):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/NORIELLE.jpg
+VIVIENNE   (R1034):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/VIVIENNE.jpg
+ALTHEA     (R1035):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/ALTHEA.jpg
+SABINE     (R1036):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/SABINE.jpg
+CLARISSE   (R1037):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/CLARISSE.jpg
+MATILDA    (R1038):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/MATILDA.jpg
+MARQUISE   (R1039):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/MARQUISE.jpg
+LUNARA     (R1040):  https://raw.githubusercontent.com/idogolan4955/avians-media/main/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA/LUNARA.jpg
+
+NOTE: Repo must be PUBLIC for these raw URLs to work on a website.
